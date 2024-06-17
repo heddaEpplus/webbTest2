@@ -1,0 +1,48 @@
+
+body {
+    background-color:lightskyblue;
+    font-family:'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    min-height: 100vh;
+    margin: 0;
+}
+h1 {
+    font-size: xxxx-large;
+    margin-bottom: 20px;
+}
+.heddas-text {
+    font-size: xx-large;
+    margin: 10px 0;
+    font-weight: bolder;
+}
+img {
+    width: 800px;
+    height: 450px;
+    border-radius: 10px;
+    margin: 20 px 0;
+}
+a {
+    color: rgb(92, 92, 255);
+    text-decoration: none;
+    margin: 10px 0;
+
+}
+a:hover {
+    text-decoration: underline;
+}
+table {
+    border: 1px black solid;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+th, td {
+    border: 1px black solid;
+    padding: 10px;
+}
+th {
+    background-color: aqua;
+}
